@@ -1,5 +1,6 @@
 # Cisco-Python-Project
 The point of it was to create automatically documentation to topology(topology.png) and gain specific information(listed below). Script was tested on Debian 6 and was written in Python 2.6.
+In range.txt and password.txt are stored credential to devices which are in this specific network(loggin via SSH, telnet is blocked), only one pair of credential works for each device.
 
 
 The main points are shown below:

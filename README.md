@@ -1,8 +1,8 @@
 # Cisco-Python-Project
-The point of it was to create automatically documentation to topology(uploaded picture) and gain specific information(listed below). Script was tested
-on Linux OS and worked as should.
-The main points are shown below:
+The point of it was to create automatically documentation to topology(topology.png) and gain specific information(listed below). Script was tested on Debian 6 and was written in Python 2.6.
 
+
+The main points are shown below:
 "Minimal requirements what your manager expects:
 
     He wants to know all available devices in the network. For each device, he wants to know:

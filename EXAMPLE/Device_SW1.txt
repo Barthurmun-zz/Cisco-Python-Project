@@ -1,0 +1,42 @@
+			 $$$$$  DEVICE: SW1  $$$$$ 
+
+ - IOS_TYPE: Version 12.4(15)T7 - 
+ - HARDWARE_VERSION: C3725-ADVENTERPRISEK9-M - 
+
+ -- MODULES INSTALLED ON DEVICE: -- 
+ -     3725 chassis     - 
+
+ -- INTERFACES OF DEVICE -- 
+
+ - Interface Name: FastEthernet0/0 - 
+ - Interface Status: administratively down - 
+ - Protocol: down - 
+
+ - Interface Name: Serial0/0 - 
+ - Interface Status: administratively down - 
+ - Protocol: down - 
+
+ - Interface Name: FastEthernet0/1 - 
+ - Interface Status: administratively down - 
+ - Protocol: down - 
+
+ - Interface Name: Serial0/1 - 
+ - Interface Status: administratively down - 
+ - Protocol: down - 
+
+ - Interface Name: Vlan1 - 
+ - Interface Status: up - 
+ - Protocol: up - 
+
+ -- NEIGHBORS LIST: -- 
+
+ - R6.cisco.com - 
+ - R7.cisco.com - 
+ - R4.cisco.com - 
+ - R5.cisco.com - 
+ - R2.cisco.com - 
+ - R3.cisco.com - 
+ - R1.cisco.com - 
+ - R8.cisco.com - 
+			 $$$$$  END  $$$$$ 
+ 

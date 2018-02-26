@@ -1,0 +1,61 @@
+			 $$$$$  DEVICE: R7  $$$$$ 
+
+ - IOS_TYPE: Version 15.2(4)S5 - 
+ - HARDWARE_VERSION: C7200-ADVIPSERVICESK9-M - 
+
+ -- MODULES INSTALLED ON DEVICE: -- 
+ -     Chassis     - 
+ -     NPE400 0     - 
+ -     module 0     - 
+ -     module 1     - 
+ -     module 2     - 
+ -     Power Supply 0     - 
+ -     Power Supply 1     - 
+
+ -- INTERFACES OF DEVICE -- 
+
+ - Interface Name: FastEthernet0/0 - 
+ - Interface Status: up - 
+ - Protocol: up - 
+
+ - Interface Name: GigabitEthernet1/0 - 
+ - Interface Status: administratively down - 
+ - Protocol: down - 
+
+ - Interface Name: Serial2/0 - 
+ - Interface Status: administratively down - 
+ - Protocol: down - 
+
+ - Interface Name: Serial2/1 - 
+ - Interface Status: administratively down - 
+ - Protocol: down - 
+
+ - Interface Name: Serial2/2 - 
+ - Interface Status: administratively down - 
+ - Protocol: down - 
+
+ - Interface Name: Serial2/3 - 
+ - Interface Status: administratively down - 
+ - Protocol: down - 
+
+ - Interface Name: Serial2/4 - 
+ - Interface Status: administratively down - 
+ - Protocol: down - 
+
+ - Interface Name: Serial2/5 - 
+ - Interface Status: administratively down - 
+ - Protocol: down - 
+
+ - Interface Name: Serial2/6 - 
+ - Interface Status: administratively down - 
+ - Protocol: down - 
+
+ - Interface Name: Serial2/7 - 
+ - Interface Status: administratively down - 
+ - Protocol: down - 
+
+ -- NEIGHBORS LIST: -- 
+
+ - SW1.cisco.com - 
+			 $$$$$  END  $$$$$ 
+ 

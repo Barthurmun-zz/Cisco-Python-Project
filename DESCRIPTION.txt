@@ -1,0 +1,14 @@
+ITS Python_Project Script description, read carefully!:
+
+1). Check if range.txt and password.txt are in same folder as 
+    Python_project_incubator.py / bak.py (It's backup file)
+2). Check if right credentials are associated with above files
+3). MAKE SURE you have ENABLED SSH connection on devices inside particular network(no blocking, generated domain-name, rsa key and more)
+4). Install necessary libraries and python version(details posted here: https://github.com/Barthurmun/Cisco-Python-Project.git )
+5). Make sure that the VM on which script is running have connection to the devices and 
+	is connected to the network. 
+6). Launch the bak.py or Python_project_incubator.py
+7). Check the created folder Dev_Documentation
+8). All informations are stored there, for each device separated txt file, 
+    in case of problems README.txt is stored there also with necessary guidlines
+9). Enjoy ! :) 

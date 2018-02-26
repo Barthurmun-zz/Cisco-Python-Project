@@ -1,6 +1,9 @@
 # Cisco-Python-Project
-The point of it was to create automatically documentation to topology(topology.png) and gain specific information(listed below). Script was tested on Debian 7 and was written in Python 2.6.
-In range.txt and password.txt are stored credential to devices which are in this specific network(loggin via SSH, telnet is blocked), only one pair of credential works for each device.
+The point of it was to create automatically documentation to the topology(topology.png) and gain specific information(listed below). Script was tested on Debian 7 and was written in Python 2.6.
+In range.txt and password.txt are stored credential to devices inside tested network(loggin via SSH, so make sure you enabling it), only one pair of credential works for each device.
+
+Description how to use script is stored in: DESCRIPTION.txt
+Output will be stored in new created folder(automatically created in place from which script runs): Dev_Documentation(Contains README.txt)
 
 Library used:
 - Sys
@@ -25,3 +28,5 @@ The main points are shown below:
     
     
     Next part will include code based on threads and gaining information by using API.
+    
+   In folder EXAMPLES are stored outputs from my topology which is presented in: topology.png

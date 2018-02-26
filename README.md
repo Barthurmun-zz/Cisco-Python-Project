@@ -10,7 +10,6 @@ Library used:
 - Paramiko
 - OS
 - Time
-- Paramiko
 - Re
 
 The main points are shown below:
